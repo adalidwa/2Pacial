@@ -1,11 +1,11 @@
 import React from "react";
-
+import './Informacion.css';
 function Informacion() {
 
     return (
       <div className="Informacion">
-        <h2>Terapia 2</h2>
-        <h2>Ejecicio pelvicos</h2>
+        <h3>Terapia 2</h3>
+        <p>Ejecicio pelvicos</p>
       </div>
     )
   }

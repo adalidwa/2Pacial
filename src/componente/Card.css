@@ -1,0 +1,30 @@
+.Cuadro{
+    width: 144px;
+    height: 186px;
+    top: -273px;
+    left: -480px;
+    background-color: #414865;
+    border-radius: 0% 0% 5% 10%;   
+}
+.Circulo{
+    width: 35px;
+    height: 35px;
+    background-color: #ffffff; /* color de fondo azul */
+    border-radius: 50%;
+    position: relative;
+    top: -70px;
+    left: 100px;
+}
+.Triangulo{
+    width: 0;
+    height: 0;
+    border-top: 10px solid transparent; /* Triángulo hacia la derecha: borde superior transparente */
+    border-bottom: 10px solid transparent; /* Triángulo hacia la derecha: borde inferior transparente */
+    border-left: 10px solid #3C4158;
+    position: relative;
+    top: 8px;
+    left: 15px;
+    
+    
+
+}
